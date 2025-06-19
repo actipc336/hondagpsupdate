@@ -1,4 +1,4 @@
-Honda GPS Navigation Update: Complete Overview
+How to Update Honda GPS Navigation? A Complete Guide
 ================================================
 
 .. toctree::
